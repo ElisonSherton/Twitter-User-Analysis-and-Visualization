@@ -48,6 +48,6 @@ That's it for this visualization. Hope you liked it and had as much fun going th
 
 **PS: Following is a list of websites/resources I used while making this visualization**
 
-- https://www.avatars.io/
+- [For getting user display pictures](https://www.avatars.io/)
 - [Udemy Course on Tableau](https://www.udemy.com/course/tableau-2018-tableau-10-qualified-associate-certification/?LSNPUBID=vedj0cWlu2Y&ranEAID=vedj0cWlu2Y&ranMID=39197&ranSiteID=vedj0cWlu2Y-9zCYyeESTGgGxQosiwrMBA)
-- https://stackoverflow.com/
+- [For preprocessing data, especially emojis](https://stackoverflow.com/). Refer the python notebook for more details.
