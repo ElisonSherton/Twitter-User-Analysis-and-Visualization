@@ -3,6 +3,8 @@
  
 This project aims to understand the behavior of a user through their tweets and interaction with other users on a popular social media platform called twitter. I reached out to a friend of mine [Shriram Dusane](https://twitter.com/shriramdusane) and he nodded his consent for the data to be used for the sake of this analysis.
 
+I extracted tweets only until 23rd Jan 2020, starting from when the user created his profile. Also, I have only considered tweets which the user sent out and not retweets. 
+
 I scraped the tweets using this tool from github called twint which gave me all the data I needed for the sake of this analysis. You can look up the link attached above in order to explore the tool but for those who're short on patience, you can open up your anaconda prompt and type in the following commands to extract a user's info using [twint](https://github.com/twintproject/twint).
 
 ```
